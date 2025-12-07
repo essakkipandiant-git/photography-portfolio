@@ -7,8 +7,7 @@ This project showcases creative photography work along with a clean layout and r
 
 ## 🚀 Live Demo
 
-👉 *(Link will appear after you enable GitHub Pages)*
-`https://your-username.github.io/photography-portfolio/`
+👉 https://essakkipandiant-git.github.io/photography-portfolio/
 
 
 ## 📁 Project Structure
