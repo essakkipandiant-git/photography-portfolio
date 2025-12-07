@@ -20,7 +20,7 @@ photography-portfolio/
 │
 ├── assets/
 │   ├── images/         # Portfolio images
-│   └── icons/          # (Optional) Custom icons
+│   └── screenshots/    # Webpage images
 │
 └── README.md           # Project documentation
 ```
@@ -45,9 +45,6 @@ photography-portfolio/
 
 
 ## 📷 Screenshots
-
-*(Optional: Add screenshots using markdown)*
-You can upload:
 
 ```
 /assets/screenshots/homepage.png
