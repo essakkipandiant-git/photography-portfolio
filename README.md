@@ -1,4 +1,4 @@
-# 📸 Creative Photography Portfolio
+# Creative Photography Portfolio
 
 A modern and minimal photography portfolio website built using **HTML**, **CSS**, and **Font Awesome**.
 This project showcases creative photography work along with a clean layout and responsive design.
@@ -26,14 +26,14 @@ photography-portfolio/
 ```
 
 
-## ✨ Features
+## Features
 
-* 🎨 Modern & clean design
-* 📱 Fully responsive layout
-* 📸 Photography gallery with hover effects
-* 🎭 Sidebar menu with animations
-* 🌙 Smooth transitions & shadows
-* 🔗 Font Awesome icons integrated
+* Modern & clean design
+* Fully responsive layout
+* Photography gallery with hover effects
+* Sidebar menu with animations
+* Smooth transitions & shadows
+* Font Awesome icons integrated
 
 
 ## 🛠️ Technologies Used
@@ -44,7 +44,7 @@ photography-portfolio/
 * **Google Fonts – Poppins**
 
 
-## 📷 Screenshots
+## Screenshots
 
 ```
 /assets/screenshots/homepage.png
@@ -56,7 +56,7 @@ Then include in README:
 ![Homepage Screenshot](assets/screenshots/homepage.png)
 ```
 
-## 📦 How to Run Locally
+## How to Run Locally
 
 1. Clone the repository:
 
@@ -66,7 +66,7 @@ Then include in README:
 2. Open `index.html` in any browser.
 
 
-## 🌍 Deployment (GitHub Pages)
+## Deployment (GitHub Pages)
 
 1. Go to **Settings** → **Pages**
 2. Under **Source**, choose:
